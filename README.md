@@ -1,6 +1,6 @@
-# JopBot - Advanced Solana Trading Bot
+# JopBot CLI - Advanced Solana Trading Bot
 
-![JopBot Logo](./images/logo.png)
+![JopBot Logo](./images/jopbot-cli-solana-bot.png)
 
 ## Overview
 
