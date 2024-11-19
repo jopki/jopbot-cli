@@ -68,7 +68,7 @@
 
 ### Dashboard, Trading Interface, Real-time Price Visualization
 
-![Price Visualization](./images/price_visualization.png)
+![Price Visualization](./images/jopbot-interface.png)
 
 ## Why Choose JopBot?
 
