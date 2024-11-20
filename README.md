@@ -4,7 +4,7 @@
 
 ## Overview
 
-**JopBot** is a state-of-the-art **Solana trading bot** engineered for trading **memcoins**, **Raydium**, **Pumpfun**, and more. Designed to optimize your trading strategies, JopBot integrates advanced features such as **copy trading**, **scraping**, **sniffing**, **take profit**, **stop loss**, and **trailing stop loss** to ensure you stay ahead in the dynamic cryptocurrency market.
+**JopBot** is a state-of-the-art **Solana trading bot** engineered for trading **memecoins**, **Raydium**, **Pumpfun**, and more. Designed to optimize your trading strategies, JopBot integrates advanced features such as **copy trading**, **scraping**, **sniffing**, **take profit**, **stop loss**, and **trailing stop loss** to ensure you stay ahead in the dynamic cryptocurrency market.
 
 ## Features
 
@@ -83,7 +83,7 @@ Ready to elevate your trading game? [Join our Discord](https://discord.gg/kVMgca
 
 ## Keywords
 
-Solana Trading Bot, memcoin, jito bundles, Raydium, Pumpfun, copy trading, scraping, sniffing, take profit, stop loss, trailing stop loss
+Solana Trading Bot, memecoin, jito bundles, Raydium, Pumpfun, copy trading, scraping, sniffing, take profit, stop loss, trailing stop loss
 
 ---
 
