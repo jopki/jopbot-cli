@@ -1,4 +1,5 @@
 # JopBot CLI - Advanced Solana Trading Bot
+Join Discord - https://discord.gg/kVMgcaD3NR
 
 ![JopBot Logo](./images/jopbot-cli-solana-bot.png)
 
